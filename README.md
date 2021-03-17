@@ -5,3 +5,5 @@ Atividade 2 para a disciplina de Tecnologias Backend da Especialização Lato Se
 [Servidor backend em NodeJS](https://github.com/Denis-Tek/IFSUDESTEMG-PosWebMobile-TecnologiasBackend-Atividade2/blob/master/server.js) servindo arquivos de frontend estáticos. 
 
 Os arquivos servidos são de uma [landing page criada usando bootstrap na atividade 1 da disciplina de Tecnologias Frontend](https://github.com/Denis-Tek/IFSUDESTEMG-PosWebMobile-TecnologiasFrontend-Atividade1)
+
+Explicações podem ser vistas em https://www.youtube.com/watch?v=pCoK7QDOml4 
